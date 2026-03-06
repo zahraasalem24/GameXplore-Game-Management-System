@@ -25,7 +25,7 @@ Reema (Rainyuraa): User Class/Developer Class
 
 Jude (judedous): SinglePlayerGame Class/UML
 
-Nematallah (MK-F105): Game Class/DigitalGame Class
+Nematallah (MK-F105): Game Class/DigitalGame Class.
 
 Ghala (gigi1004): Game Class/TableTopGame
 
