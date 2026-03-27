@@ -27,6 +27,6 @@ Jude (judedous): SinglePlayerGame Class/UML
 
 Nematallah (MK-F105): Game Class/DigitalGame Class.
 
-Ghala (gigi1004): Game Class/TableTopGame
+Ghala (gigi1004): Game Class/TableTopGame.
 
 Sahar (sahar2424): User Class/Player Class
