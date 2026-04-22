@@ -21,7 +21,7 @@ The project was developed collaboratively, with responsibilities divided as foll
 
 Zahraa (zahraasalem24): MultiplayerGame Class/UML
 
-Reema (Rainyuraa): User Class/Developer Class
+Reema (Rainyuraa): User Class/Developer Class.
 
 Jude (judedous): SinglePlayerGame Class/UML
 
